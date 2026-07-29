@@ -1,6 +1,6 @@
 # wanguiesther
 
-# Hi, I'm Wangui 👋, an aspiring Data Analyst.
+Hi, I'm Wangui 👋, an aspiring Data Analyst.
 
 I enjoy transforming raw data into meaningful insights that help solve real-world problems.
 
