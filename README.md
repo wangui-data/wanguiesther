@@ -18,14 +18,21 @@ Currently, I am building projects in Excel, SQL, Python, and Power BI while expa
 
 ## Currently Learning
 
-- Statistics for Data Analytics
 - Machine Learning Fundamentals
-- Data Storytelling
-- Git & GitHub
+- Python
+- 
 
 ## Portfolio Projects
 
-Projects will be added as I complete them.
+➡ SaaS Subscription Analytics
+
+➡ Marketing Campaign Analysis
+
+➡ HR Analytics
+
+➡ Supply Chain Analytics
+
+➡ E-commerce Analytics
 
 ## Education
 
