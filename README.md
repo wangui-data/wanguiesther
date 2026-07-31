@@ -25,10 +25,6 @@ Currently, I am building projects in Excel, SQL, Python, and Power BI while expa
 ## Portfolio Projects
 
 ➡ SaaS Subscription Analytics
-Analyzed customer subscription behavior to identify churn drivers, evaluate retention trends, measure customer lifetime value (LTV), and uncover opportunities to improve recurring revenue through segmentation, cohort analysis, and customer behavior insights. 
-
-###Tools and functions 
-Excel (data validation & exploration), SQL (data extraction, joins, aggregations, CTEs, window functions), Python (data cleaning, feature engineering, churn & cohort analysis), Power BI (interactive KPI dashboard, DAX measures, executive reporting)
 
 ➡ Marketing Campaign Analysis
 
