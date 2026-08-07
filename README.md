@@ -40,6 +40,6 @@ KCA University
 
 ## Contact
 
- X(Twitter): 
+ X(Twitter): https://x.com/wangui__?s=11
 
 Email: kuii2623@gmail.com
