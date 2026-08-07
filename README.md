@@ -36,8 +36,8 @@ Currently, I am building projects in Excel, SQL, Python, and Power BI while expa
 ## Education
 
 Bachelor of Education (Mathematics & Computer Science)
-KCA University
-
+- KCA University
+Data Analytics - IQ-Hub Africa
 ## Contact
 
  X(Twitter): https://x.com/wangui__?s=11
