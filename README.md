@@ -28,8 +28,6 @@ Currently, I am building projects in Excel, SQL, Python, and Power BI while expa
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 |  **Marketing Campaign Analysis** | Assessed the effectiveness of multi-channel marketing campaigns by measuring ROI, conversion rates, customer acquisition cost (CAC), and campaign attribution to identify the highest-performing channels and optimize marketing spend.                            | **Excel** (campaign data validation), **SQL** (campaign performance queries, channel comparisons), **Python** (ROI calculations, attribution analysis, statistical summaries), **Power BI** (marketing performance dashboard, DAX metrics, interactive channel analysis)              |
-|  **HR Workforce Analytics**      |                    |
-
 
 ## Education
 
