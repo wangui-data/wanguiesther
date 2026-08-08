@@ -4,7 +4,7 @@ Hi, I'm Wangui 👋, an aspiring Data Analyst.
 
 I enjoy transforming raw data into meaningful insights that help solve real-world problems.
 
-Currently, I am building projects in Excel, SQL, Python, and Power BI while expanding my skills in data analytics and business intelligence.
+Currently, I am building projects in Excel, SQL and Power BI while expanding my skills in data analytics and business intelligence.
 
 ## Skills
 
