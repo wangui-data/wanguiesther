@@ -38,7 +38,8 @@ Currently, I am building projects in Excel, SQL and Power BI while expanding my 
 Bachelor of Education (Mathematics & Computer Science)
 - KCA University
 
-Data Analytics - IQ-Hub Africa
+Data Analytics 
+- IQ-Hub Africa
 
 
 ## Contact
