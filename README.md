@@ -18,7 +18,6 @@ Currently, I am building projects in Excel, SQL and Power BI while expanding my 
 
 ## Currently Learning
 
-- Machine Learning Fundamentals
 - Python
 - 
 
