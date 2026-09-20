@@ -11,8 +11,8 @@ Currently, I am building projects in Excel, SQL and Power BI while expanding my 
 - Excel
 - Power Query
 - SQL
-- Pandas
 - Power BI
+- Business Intelligence
 - Data Visualization
 - Data Cleaning
 
